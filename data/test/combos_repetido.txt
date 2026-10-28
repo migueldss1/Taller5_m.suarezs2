@@ -1,0 +1,2 @@
+combo papitas;5%;papas fritas;jugo naranja
+combo papitas;5%;papas fritas;tiernita

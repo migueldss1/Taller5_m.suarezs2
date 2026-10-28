@@ -1,0 +1,3 @@
+tiernita;20000
+papas fritas;10000
+jugo naranja;5000
